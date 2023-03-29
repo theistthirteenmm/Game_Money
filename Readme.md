@@ -19,7 +19,7 @@ I've written a complete tutorial series for this application on The CalliCoder B
 1. **Clone the application**
 
 	```bash
-	git clone https://github.com/callicoder/spring-security-react-ant-design-polls-app.git
+	git clone
 	cd polling-app-server
 	```
 
